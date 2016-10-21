@@ -10,7 +10,7 @@ properties:
 - name: author
   type: string
   label: Author
-  value: bbertka@pivotal.io
+  value: user@your-company.com
 
 docker_release:
  - name: docker
